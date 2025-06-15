@@ -16,15 +16,28 @@ A lightweight CSS utility library that allows you to mask text and elements with
 
 ### Installation
 
-#### Via CDN
+#### 📦 Via CDN
+Add this line to your HTML `<head>` section:
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flagmask@latest/flagmask.css">
 ```
 
-#### Via npm
+#### 📋 Via npm
+Install the package:
 ```bash
 npm install flagmask
 ```
+
+**Import in your JavaScript/TypeScript:**
+```javascript
+// Automatic CSS import (recommended)
+import 'flagmask';
+
+// Or explicit CSS import
+import 'flagmask/flagmask.css';
+```
+
+**Note**: The automatic CSS import works with modern bundlers like Webpack, Vite, Rollup, etc. that support CSS imports in JavaScript modules.
 
 ### Basic Usage
 

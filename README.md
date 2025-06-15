@@ -1,4 +1,4 @@
-# FlagMask 🚩
+# 🏁 FlagMask
 
 A lightweight CSS utility library that allows you to mask text and elements with country flags using simple CSS classes. Transform any text into beautiful flag patterns using SVG masks and background images.
 
@@ -144,21 +144,16 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 3. Test with various browsers
 4. Submit a pull request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Flag designs based on international standards
-- SVG optimizations for web performance
-- Community feedback and contributions
-
 ## 📞 Support
 
 If you encounter any issues or have questions:
 - Create an [issue](https://github.com/ToJaCytryn/flagmask/issues) on GitHub
 - Check the [documentation](https://github.com/ToJaCytryn/flagmask)
+
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 

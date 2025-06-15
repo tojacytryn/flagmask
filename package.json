@@ -1,18 +1,19 @@
 {
   "name": "flagmask",
   "version": "1.0.6",
-  "description": "A CSS utility library to mask text and elements with country flags using CSS class.",  "main": "index.js",
-  "module": "index.js",  "style": "flagmask.css",
+  "description": "A CSS utility library to mask text and elements with country flags using CSS class.",
+  "main": "index.js",
+  "module": "index.js",
+  "style": "flagmask.css",
   "type": "module",
   "files": [
     "flagmask.css",
     "index.js",
-    "index.cjs",
-    "flagmask.js",
     "flags/",
     "README.md",
     "LICENSE"
-  ],"exports": {
+  ],
+  "exports": {
     ".": {
       "import": "./index.js",
       "default": "./index.js"

@@ -1,6 +1,6 @@
 {
   "name": "flagmask",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A CSS utility library to mask text and elements with country flags using CSS class.",
   "main": "flagmask.js",
   "style": "flagmask.css",

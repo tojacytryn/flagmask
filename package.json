@@ -1,0 +1,21 @@
+{
+  "name": "flagmask",
+  "version": "1.0.2",
+  "description": "A CSS utility library to mask text and elements with country flags using CSS classes or attributes.",
+  "main": "flagmask.js",
+  "style": "flagmask.css",
+  "scripts": {
+    "build": "echo 'No build step needed'",
+    "dev": "echo 'Use a local server to preview'"
+  },
+  "keywords": [
+    "css",
+    "flags",
+    "mask",
+    "text-mask",
+    "svg",
+    "utilities"
+  ],
+  "author": "ToJaCytryn",
+  "license": "MIT"
+}

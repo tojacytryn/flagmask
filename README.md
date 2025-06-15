@@ -161,7 +161,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 If you encounter any issues or have questions:
 - Create an [issue](https://github.com/ToJaCytryn/flagmask/issues) on GitHub
-- Check the [documentation](https://github.com/ToJaCytryn/flagmask)
+- Contact me via email: `tojacytryn@gmail.com`
 
 
 ## 📄 License
